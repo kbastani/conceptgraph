@@ -8,7 +8,7 @@ var init = function()
 
     tape[0] = 1;
 
-    var myVar = setInterval(function () { tm(); }, 25);
+    var myVar = setInterval(function () { tm(); }, 60);
 };
 
 var tm = function () {
